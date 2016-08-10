@@ -1,0 +1,3 @@
+netsh interface ipv4 set dns "Local Area Connection" static 10.34.39.130
+
+netsh interface ipv4 add dns "Local Area Connection" 4.2.2.2 index=2

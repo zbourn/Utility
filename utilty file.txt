@@ -1,0 +1,95 @@
+route add -p 10.34.32.130 mask 255.255.255.255 10.34.38.1
+
+route add -p 10.34.155.15 mask 255.255.255.255 10.34.38.1
+
+route add -p 10.34.32.132 mask 255.255.255.255 10.34.38.1
+
+S0011372816    Locked@123
+S0013911133    H1ghf!ve
+S0015798333    UWDS0DI7
+
+director -repository jar:file:/C:/SAPWebIDE/updatesite.zip!/ -installIU com.sap.webide.orionplugin.feature.feature.group -destination c:\SAPWebIDE\eclipse
+TV 586 184 464 3233
+smarupudi/fUjiTsu2013
+chrome.exe --disable-web-security --user-data-dir=C:\Users\iqbalna\AppData\Local\Google\Chrome\User Data\Default
+chrome.exe --disable-cors-for-origins --user-data-dir=C:\Users\iqbalna\AppData\Local\Google\Chrome\User Data
+SHD 100 Conagra12
+SHD 110 Conagra10
+SHQ     Conagra10
+SHP     Conagra10
+FFR     Conagra6
+FFS     Conagra6
+FFT     Conagra5
+FF2     Conagra14
+FF6     Conagra10
+FF9     Conagra9
+SPD     Conagra7
+SPQ     Conagra5
+SPP     Conagra6
+PRS     Conagra5
+GW0     Conagra8
+GWP     Conagra8
+BPD     TPNIQBAL  hanas402
+ECD     FUJI020   hanas401
+ECD     NIQBAL    hanas401
+EVD     NIQBAL    hanas401
+BWD     NIQBAL    hanas401
+TMD     NIQBAL    hanas401
+DS1     NXIQBAL   Conagra7	
+QS3     NXIQBAL   Conagra7
+SHD-HanaTPSPAKHARE fujitsu1
+ 
+ nadim.iqbal@sficloud.onmicrosoft.com
+
+	\\10.34.156.166\SAP_downloads 	       1400712456
+  
+	Administrator
+fujitsu#1	
+G09\...   5|I{SOd1H.
+call myproc(intab=>mytab, i=>2, outtab =>?);
+SAP_BC_DWB_ABAPDEVELOPER
+SAP_BC_DWB_WBDISPLAY 
+
+&sap-ui-xx-fakeOS=ios
+
+409132
+172517
+171698
+165583
+188665
+404066
+171273
+183347
+167936
+358360
+
+sap-language=EN&PERNR=0000004970
+
+/interface/outbound/zgww
+metadatalog_0412               
+
+zgmetadata id 144
+ZGDOCTYPES to get report id
+Z_RFC_GET_METADATA
+
+
+ 
+https://easus.consulting-fujitsu.com/Farmland/FFE/PMDeliverablesInternal/Forms/AllItems.aspx?RootFolder=%2fFarmland%2fFFE%2fPMDeliverablesInternal%2fFujitsu%2dFarmland%20Operations%20Run%20Book%2fEscalation%20Matrix%20and%20Team%20Contact%20Details%2fWork%20Log&FolderCTID=&View=%7bB559751D%2d495E%2d4DB8%2dA586%2d0FBAF2FD1607%7d	 
+
+
+
+	 
+
+http://FC-P01-ECC04.india.rapidigm.com:8000/sap/bc/webdynpro/sap/ztest_wf?&PERNR=4970&TNO=123
+
+Solve VPN Issue
+
+Start-> Run-> services.msc *Enter*
+
+Look for Internet Connection Sharing (ICS) in the list. Doubleclick.
+
+Change startup type to Disabled.
+
+Below Service Status, press Stop.
+
+Then press Ok, to close dialog.
